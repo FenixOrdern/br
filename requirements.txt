@@ -8,3 +8,4 @@ plotly
 yfinance
 scipy
 tweepy
+textblob
